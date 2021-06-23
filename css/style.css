@@ -1,0 +1,278 @@
+.Need_help__Talk_to_an_expert {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(231, 76, 60);
+    line-height: 1.6;
+    text-align: left;
+    position: absolute;
+    left: 1153.937px;
+    top: 66.883px;
+    z-index: 553;
+  }
+.aaa{
+    font-size: 15px;
+    font-family: "Roboto";
+
+    line-height: 1.6;
+    text-align: left;
+    position: absolute;
+    left: 1153.937px;
+    top: 66.883px;
+    z-index: 553;
+  }
+.header{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 500px;
+    z-index: 556;
+}
+.help {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 54px;
+    z-index: 554;
+}
+
+.Login {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    line-height: 2;
+    text-align: left;
+    position: absolute;
+    left: 1411.937px;
+    top: 56.992px;
+    z-index: 550;
+  }
+  .Rounded_Rectangle_1 {
+    border-radius: 4px;
+    background-color: rgb(139, 195, 74);
+    position: absolute;
+    left: 1393px;
+    top: 30px;
+    width: 72px;
+    height: 32px;
+    z-index: 549;
+  }
+  
+  
+.cart {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 54px;
+    z-index: 543;
+  }
+.g{
+    font-size: 11px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    line-height: 2.182;
+    text-align: left;
+    position: absolute;
+    left: 1359.937px;
+    top: 21.999px;
+    z-index: 542;
+}
+.Ellipse_1 {
+    border-radius: 50%;
+    background-color: rgb(231, 76, 60);
+    position: absolute;
+    left: 1354px;
+    top: 25px;
+    width: 18px;
+    height: 18px;
+    z-index: 541;
+}
+
+.Ellipse_2 {
+    border-radius: 50%;
+    background-color: rgb(231, 76, 60);
+    position: absolute;
+    left: 1354px;
+    top: 25px;
+    width: 18px;
+    height: 18px;
+    z-index: 541;
+  }
+  
+.login {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 54px;
+    z-index: 551;
+}
+.register {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 54px;
+    z-index: 547;
+}
+.Register {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    line-height: 2;
+    text-align: left;
+    position: absolute;
+    left: 1484.937px;
+    top: 56.992px;
+    z-index: 546;
+}
+.Rounded_Rectangle_2 {
+    border-radius: 4px;
+    background-color: rgb(231, 76, 60);
+    position: absolute;
+    left: 1472px;
+    top: 30px;
+    width: 72px;
+    height: 32px;
+    z-index: 545;
+}
+.menu {
+    position: absolute;
+    left: 0px;
+    top: 100px;
+    width: 1920px;
+    height: 54px;
+    z-index: 532;
+    background-image:url(/images/Rectangle\ 52.png) ;
+  }
+.Home___________About____________WordPress______ {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    line-height: 2.143;
+    text-align: left;
+    padding-left: 84px;
+    left: 374.937px;
+    top: 134.249px;
+    z-index: 531;
+    text-decoration: none;
+    display: inline-block;
+}
+.Rectangle_52 {
+    background-color: rgb(38, 50, 56);
+    position: absolute;
+    left: -8px;
+    top: 91px;
+    width: 1932px;
+    height: 60px;
+    z-index: 530;
+}
+.Rectangle_27 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 182px;
+    top: -123px;
+    width: 1926px;
+    height: 92px;
+    z-index: 529;
+}
+
+.banner {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 54px;
+  z-index: 527;
+}
+.text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 5485px;
+  z-index: 526;
+}
+.Welcome_To_Foxtar_Market_Place_ {
+  font-size: 48px;
+  font-family: "Roboto";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.625;
+  text-align: left;
+  position: absolute;
+  left: 600.844px;
+  top: 310.5px;
+  z-index: 525;
+}
+.Premium_WordPress_Themes__Web_Templates_and_Man {
+  font-size: 20px;
+  font-family: "Roboto";
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 672.87px;
+  top: 401.198px;
+  z-index: 524;
+}
+.search_box {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 5485px;
+  z-index: 522;
+}
+.Search_Your_Keywords______ {
+  font-size: 14px;
+  font-family: "Roboto";
+  color: rgb(144, 164, 174);
+  line-height: 2.143;
+  text-align: left;
+  position: absolute;
+  left: 649.134px;
+  top: 494.249px;
+  z-index: 521;
+}
+.Layer_186 {
+  background-image: url("Layer 186.png");
+  position: absolute;
+  left: 1255px;
+  top: 471px;
+  width: 20px;
+  height: 20px;
+  z-index: 520;
+}
+.Rounded_Rectangle_1 {
+  border-radius: 4px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 1px 10px 0px rgba(124, 178, 64, 0.75);
+  position: absolute;
+  left: 625px;
+  top: 452px;
+  width: 670px;
+  height: 56px;
+  z-index: 519;
+}
+.banner_image {
+  position: absolute;
+  left: 0px;
+  top: 130px;
+  width: 1920px;
+  height: 550px;
+  z-index: 517;
+}
+.Shape_1 {
+  background-color: rgb(139, 195, 74);
+  position: absolute;
+  left: -8px;
+  top: 151px;
+  width: 1930px;
+  height: 532px;
+  z-index: 514;
+}
+
+
